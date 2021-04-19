@@ -31,9 +31,12 @@ setopt PROMPT_SUBST
 #ZSH_THEME="dst"
 #ZSH_THEME="fino-time"
 #ZSH_THEME="jonathan"
-ZSH_THEME="powerlevel10k/powerlevel10k"
 
-# ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )
+###########################################################################################
+# To use this theme, you have to install it via https://github.com/romkatv/powerlevel10k  #
+###########################################################################################
+
+ZSH_THEME="powerlevel10k/powerlevel10k"
 
 # CASE_SENSITIVE="true"
 
